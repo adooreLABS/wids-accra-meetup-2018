@@ -1,7 +1,7 @@
 <img src="/images/wids.jpg" width=300/>
-# Women in Data Science Accra Meetup - Advanced Data Science Session
 
-Women in Data Science (WiDS) aims to inspire and educate data scientists worldwide and provide support to people interested in data science. During WiDS Accra, you will get the opportunity to learn about the latest data science related research and applications. This will be infused with some hands-on sessions where you would gain practical skills
+# Women in Data Science Accra Meetup - Advanced Data Science Session
+[Women in Data Science (WiDS)](http://www.widsconference.org/) aims to inspire and educate data scientists worldwide and provide support to people interested in data science. During WiDS Accra, you will get the opportunity to learn about the latest data science related research and applications. This will be infused with some hands-on sessions where you would gain practical skills
 
 ## Content
 + Training Details
