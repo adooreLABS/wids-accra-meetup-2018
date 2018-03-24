@@ -14,6 +14,7 @@
 + Session Facilitators
   + Yvette Kondoh, Data Scientist, SuperFluid Labs
   + Richard Ackon, Machine Learning Engineer, Kudobuzz
+  + David Selassie Opoku, Data Plumber, adooreLABS
 
 + Duration: 15.30 - 17:00
 
@@ -23,7 +24,7 @@ Time | Session | Responsible
 15:30 - 15:35 | Introduction | Instructors
 15:35 - 15:55 | Exploratory Data Analysis (EDA) | Yvette Kondoh
 15:55 - 16:15 | Model Building | Richard Ackon
-16:15 - 16:20 | Hands-on Practice Overview | Yvette Kondoh & Richard Ackon
+16:15 - 16:20 | Hands-on Practice Overview | Instructors
 16:20 - 16:50 | Hand-on Practice | Learners
 16:50 - 17:00 | Questions & Closing | Instructors
 
